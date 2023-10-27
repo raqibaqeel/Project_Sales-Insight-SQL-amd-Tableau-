@@ -1,3 +1,5 @@
+Dashboard Link:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insightproject/Dashboard-RevenueAnalysis
+ 
 SELECT * FROM sales.transactions;
 
 # Types of Currency
