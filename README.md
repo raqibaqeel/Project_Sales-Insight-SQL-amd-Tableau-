@@ -95,8 +95,11 @@ Convert USD into INR in the transaction’s table: the AtliQ Hardware only works
 ## RECOMMENDATION:
 **Based on the dashboards Insights:**
 
-Should Maintain healthy relationship with the customers in Bhubaneshwar, Hyderabad, Chennai as they are highest profit % by market.
-Make some stategy for Lucknow market as its revenue are less and also profit % are in negative.
+1.Should Maintain healthy relationship with the customers in Bhubaneshwar, Hyderabad, Chennai as they are highest profit % by market.
+
+2.Make some stategy for Lucknow market as its revenue are less and also profit % are in negative.
 Figure out what need to be done as sales quantity in Kanpur, Surat, Patna, Bhubaneshwar, Chennai are the lowest.
-North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
-Delhi is the highest revenue contibutor and second highest profit contributor whereas Mumbai is the second highest revenue contributor and highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
+
+3.North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+
+4.Delhi is the highest revenue contibutor and second highest profit contributor whereas Mumbai is the second highest revenue contributor and highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
