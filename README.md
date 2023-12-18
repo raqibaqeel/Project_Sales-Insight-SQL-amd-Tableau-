@@ -2,8 +2,9 @@
 ## SQL Queries
 https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/blob/main/sales%20insight.sql
 ## Tableau Dashboards
-Dashboard Link:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insightproject/Dashboard-RevenueAnalysis
-Dashboard 2 :- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insight-ProfitAnalysis/Salesinsight-ProfitAnalysisDashboard
+**Revenue Analysis Dashboard**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insightproject/Dashboard-RevenueAnalysis
+
+**Profit Analysis**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insight-ProfitAnalysis/Salesinsight-ProfitAnalysisDashboard
 
 # Problem Statement :
 In this project performed India based AtliQ hardware company sales insights - A Data Analysis project.
@@ -90,6 +91,7 @@ Convert USD into INR in the transaction’s table: the AtliQ Hardware only works
 
 ## Dashboards
 **Revenue Analysis Dashboard**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insightproject/Dashboard-RevenueAnalysis
+
 **Profit Analysis**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insight-ProfitAnalysis/Salesinsight-ProfitAnalysisDashboard
 
 ## RECOMMENDATION:
