@@ -15,7 +15,7 @@ Sales director for this company is facing a lot of challenges is this the market
 The problem was that all thses thing happening is verbal and these was mo proof with facts that how his business is affected and which made him frustraed as he can see that overall sales is declining but when he can ask regional manager, he is not getting complete picture of this bussiness and when he and this AtliQ hardware is big business. so to see insights clearly. and he will get proper insights anbd can take data driven decision to increase sales of hos company. All he wants is a simple data visualization tool which he can access on daily basis. By using such tools and technology one can make data driven decisiions which helps to increase the sales of the company. So, In this projects we will help a company make its own sales related dashboard using Tableau.
 
 # Data Discovery :
-##Project Planning using AIMS Grid -
+**Project Planning using AIMS Grid -**
 It is a project management tool which consists of four components-
 
 **Purpose** - (What to do exactly)
