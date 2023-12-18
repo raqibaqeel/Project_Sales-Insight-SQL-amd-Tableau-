@@ -62,7 +62,8 @@ SQL database dump is in db_dump.sql file above. Download db_dump.sql file to you
 ![image](https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/assets/90096554/c182ecde-4a02-4482-9d5a-26b7cbb11e10)
 
 The import of data is done from an already existing MySQL file. This file has to be loaded into MySQL workbench for further data analysis.
-** Data Analysis USing MySQL:-
+
+**Data Analysis USing MySQL:-**
 SQL Queries :- https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/blob/main/sales%20insight...sql
 
 ## Data Analysis Using Tableau 
