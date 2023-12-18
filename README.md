@@ -73,15 +73,15 @@ SQL Queries :- https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Table
 **Creating Star Schema in Tableau**
 n this process, we are work on data cleaning and ETL.
 
-Step 1: Connect the MySQL database with the PowerBI desktop.
+**Step 1:** Connect the MySQL database with the PowerBI desktop.
 
-Step 2: Loading data into the Power BI deskstop. This step load all the tables and created in the data base. This load option will connect with the SQL and pull all the records into power BI environment.
+**Step 2:** Loading data into the Power BI deskstop. This step load all the tables and created in the data base. This load option will connect with the SQL and pull all the records into power BI environment.
 
 In that model view looking up for model which form the star schema.
 
 ![image](https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/assets/90096554/029fd346-ac36-4220-ad62-714c813899cd)
 
-Setp 3: Transform data
+**Setp 3:** Transform data
 
 Perform filtration in market’s table: In the tables perform when we click on the transform data option, we are directed to Calculted field. Calculated field editor is where we perform out ETL.and then we can perform data transformation i.e. Data Cleaning, Data Wrangling, Data Munging. we need to filter the rows where the values are null and filtering the data and deselecting the blank option.
 
