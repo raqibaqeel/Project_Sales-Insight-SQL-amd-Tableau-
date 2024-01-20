@@ -1,6 +1,6 @@
 # Project_Sales-Insight-SQL-and-Tableau-
 ## SQL Queries
-https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/blob/main/sales%20insight.sql
+https://github.com/raqibaqeel/Project_Sales-Insight-SQL-amd-Tableau-/blob/main/sales%20insight...sql
 ## Tableau Dashboards
 **Revenue Analysis Dashboard**:- https://public.tableau.com/app/profile/raqib.aqeel/viz/Sales_Insightproject/Dashboard-RevenueAnalysis
 
